@@ -1,8 +1,8 @@
 # 👋 Hi. Welcome to my GitHub profile.
 
 ## About Me
-- 🛡️ Offensive Security Professional
-- 🎓 Software Engineer Graduate
+- 🛡️ Offensive Security Engineer
+- 🎓 Software Engineer
 - ✍️ Blog Author
 - 🧩 CTF Player
 
